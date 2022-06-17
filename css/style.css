@@ -1,0 +1,48 @@
+.wrapper { 
+    width: 500px;
+    height: 400px;
+    background: white;
+    margin-left: 500px;
+    border: solid 3px;
+    border-color: brown;
+ 
+}
+img{
+    width: 500px;
+    height: 150px;
+    color: palegoldenrod;
+}
+i{
+    margin-top: 12px;
+}
+.wrapper .wrapper__text{
+    width: 470px;
+    margin-top: 30px;
+    background: rgb(0, 255, 140);
+    height: 150px;
+    padding-left: 30px;
+}
+.wrapper .wrapper__text h3{
+color: gray;
+text-transform: uppercase;
+font-size: 20px;
+}
+.wrapper .wrapper__text h2 {
+text-transform: uppercase;
+color:black;
+}
+.wrapper .wrapper__text p{
+    color: gra;
+}
+.wrapper .wrapper__number{
+    height: 35px;
+    background: white;
+    line-height: 35px;
+    padding-left: 28px;
+    color:orange;
+}
+.wrapper .wrapper__number span {
+    float:right;
+    padding-right: 50px;
+    color: red;
+}
